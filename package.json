@@ -2,10 +2,10 @@
   "name": "server-deployment-practice",
   "version": "1.0.0",
   "description": "",
-  "main": "server.js",
+  "main": "index.js",
   "scripts": {
     "test": "jest --coverage",
-    "start": "node server.js"
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
